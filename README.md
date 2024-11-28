@@ -1,7 +1,7 @@
 Hi there i'am Enzo Salles
 
-- 🔭 I was recently working as technical support at a software company, however now I'm just studying and improving myself every day!
-- 🌱 I’m currently learning java, sql, git/github and basic front-end!!
+- 🔭 I recently joined BNE as an intern at the IT school!!
+- 🌱 I’m currently learning C#, sql, git/github and basic front-end!!
 - 📫 Contatc me: enzolbs13@gmail.com
 - 😄 Pronouns: He/Him
 
