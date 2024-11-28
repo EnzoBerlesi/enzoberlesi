@@ -5,7 +5,7 @@ Hi there i'am Enzo Salles
 - 📫 Contatc me: enzolbs13@gmail.com
 - 😄 Pronouns: He/Him
 
--  <div>
+<div>
   <a href="https://github.com/enzoberlesi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enzoberlesi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzoberlesi&layout=compact&langs_count=16&theme=dracula"/>
